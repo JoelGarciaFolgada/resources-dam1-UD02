@@ -1,0 +1,44 @@
+div {
+    background-color: purple;
+    width: 430px;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+    padding: 1em;
+}
+
+input {
+    background-color: greenyellow;
+    width: 30px;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
+
+button {
+    background-color: aqua;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#total {
+    color: greenyellow;
+    margin-left: 2px;
+}
